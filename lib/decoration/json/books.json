@@ -1,0 +1,23 @@
+[
+    {
+        "rating" : "4.5",
+        "title" : "WELCOME HOME",
+        "text" : "Billie Eilish",
+        "img" : "lib/decoration/img/images.jpeg",
+        "audio" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+        "rating" : "4.5",
+        "title" : "SET FIRE TO THE RAIN",
+        "text" : "Adele",
+        "img" : "lib/decoration/img/set_fire.png",
+        "audio" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+        "rating" : "4.5",
+        "title" : "FADED",
+        "text" : "Alan Walker",
+        "img" : "lib/decoration/img/Alan_Walker_-_Faded.png",
+        "audio" : "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    }
+]
