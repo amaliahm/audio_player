@@ -12,3 +12,4 @@ Flutter application where you can
  - fast forward
  - slow forward
  - auto stop when navigate
+ - all audios are in local api
